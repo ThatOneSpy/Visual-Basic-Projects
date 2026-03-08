@@ -1,0 +1,14 @@
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\bin\Debug\net8.0-windows\Snake.exe
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\bin\Debug\net8.0-windows\Snake.deps.json
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\bin\Debug\net8.0-windows\Snake.runtimeconfig.json
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\bin\Debug\net8.0-windows\Snake.dll
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\bin\Debug\net8.0-windows\Snake.pdb
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.AssemblyInfo.vb
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.vbproj.CoreCompileInputs.cache
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.dll
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\refint\Snake.dll
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.pdb
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\Snake.genruntimeconfig.cache
+C:\Users\Jerry Huang\Documents\GitHub\App-Testing\visual_basic\Snake\obj\Debug\net8.0-windows\ref\Snake.dll
